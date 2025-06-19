@@ -10,10 +10,10 @@ Task Handler is a simple web application that allows users to create, view, and 
 - **Accessible**: Delete buttons include ARIA labels for screen reader support.
 
 ## Demo
-[Live Demo](https://your-username.github.io/task-handler)  
+[Live Demo] https://mohanakrishnan-03.github.io/task-manager/ 
 
 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mohanakrishnan-03/task-handler.git
+   git clone  https://mohanakrishnan-03.github.io/task-manager/
